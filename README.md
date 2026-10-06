@@ -31,11 +31,14 @@ RED → GREEN → YELLOW → RED
 | GREEN | Green |
 | YELLOW | Yellow |
 
-## Tools Used
+## Language
 
 - Verilog HDL
+
+## Tools Used
+
 - VeriSim
-- VS Code
+
 
 ## Simulation Results
 
